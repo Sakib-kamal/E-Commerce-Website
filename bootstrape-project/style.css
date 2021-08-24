@@ -1,0 +1,36 @@
+#banner-content
+{
+	 position: relative;
+	 border:redius;
+ padding-top: 2%;
+ padding-bottom: 2%;
+ margin-top: 12%;
+ margin-bottom:12%;
+ background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+
+}
+
+#banner-image{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url(image.jpg) no-repeat center center;
+ background-size: cover;
+ border: 10px solid black
+
+}
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#sign-Up
+{
+	background-color: blue;
+	color: red;
